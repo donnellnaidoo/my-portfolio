@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: 'Donnell Naidoo',
-  url: 'https://donnellnaidoo.vercel.app',
+  url: 'https://donnell.dev',
   description: 'Portfolio of Donnell Naidoo, Full-Stack Software Developer & AI Practitioner.',
   keywords: [
     'Donnell Naidoo',
