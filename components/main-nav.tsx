@@ -44,6 +44,7 @@ export function MainNav() {
         <Link
           href={siteConfig.links.resume}
           target="_blank"
+          download
           className="group flex items-center gap-1.5 text-muted-foreground transition-colors hover:text-foreground"
         >
           Resume

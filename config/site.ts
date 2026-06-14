@@ -26,7 +26,7 @@ export const siteConfig = {
     github: 'https://github.com/DonnellNaidoo',
     githubProfile: 'https://github.com/DonnellNaidoo',
     linkedin: 'https://www.linkedin.com/in/donnellnaidoo/',
-    resume: 'https://drive.google.com/file/d/your-resume-id/view',
+    resume: '/Donnell%20Naidoo.pdf',
     email: 'mailto:donnellnaidoo6@gmail.com',
     githubUsername: 'DonnellNaidoo',
   },

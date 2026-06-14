@@ -27,7 +27,7 @@ const IntroductionPage = async () => {
         </PageHeaderDescription>
         <PageActions>
           <Button asChild size="sm" className="rounded-md">
-            <Link href={siteConfig.links.resume} target="_blank">
+            <Link href={siteConfig.links.resume} target="_blank" download>
               Get Resume
               <ExternalLink className="size-3" strokeWidth={2} />
             </Link>
