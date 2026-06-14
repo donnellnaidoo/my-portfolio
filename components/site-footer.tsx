@@ -9,21 +9,7 @@ export async function SiteFooter() {
       <div className="container-wrapper">
         <div className="container flex flex-col items-center justify-center py-4 space-y-2">
           <div className="max-w-3xl text-xs leading-relaxed text-center sm:text-sm text-balance text-muted-foreground">
-            <span className="block sm:inline">©2026</span>
-            <span className="hidden sm:inline"> · </span>
-            <span className="block sm:inline">
-              Built with{" "}
-              <span className="font-medium text-foreground">Next.js</span>,{" "}
-              <span className="font-medium text-foreground">shadcn/ui</span> and{" "}
-              <span className="font-medium text-foreground">Tailwind CSS</span>
-            </span>
-            <span className="hidden sm:inline"> · </span>
-            <span className="block sm:inline">
-              Coded in{" "}
-              <span className="font-medium text-foreground">Cursor</span> and
-              deployed with{" "}
-              <span className="font-medium text-foreground">Vercel</span>
-            </span>
+            <span>©2026</span>
           </div>
           <div className="text-xs text-center sm:text-sm text-muted-foreground">
             Developed by{" "}
@@ -34,15 +20,6 @@ export async function SiteFooter() {
               className="font-medium transition-colors text-primary hover:text-primary/80"
             >
               Donnell Naidoo
-            </Link>{" "}
-            · Source code available on{" "}
-            <Link
-              href="https://github.com/DonnellNaidoo"
-              target="_blank"
-              rel="noreferrer"
-              className="font-medium transition-colors text-primary hover:text-primary/80"
-            >
-              GitHub
             </Link>
           </div>
         </div>
