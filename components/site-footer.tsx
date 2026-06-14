@@ -33,16 +33,16 @@ export async function SiteFooter() {
               rel="noreferrer"
               className="font-medium transition-colors text-primary hover:text-primary/80"
             >
-              Aditya Domle
+              Donnell Naidoo
             </Link>{" "}
             · Source code available on{" "}
             <Link
-              href="https://topmate.io/aditya_domle/1773422"
+              href="https://github.com/DonnellNaidoo"
               target="_blank"
               rel="noreferrer"
               className="font-medium transition-colors text-primary hover:text-primary/80"
             >
-              Topmate
+              GitHub
             </Link>
           </div>
         </div>

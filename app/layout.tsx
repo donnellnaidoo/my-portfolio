@@ -29,11 +29,11 @@ export const metadata: Metadata = {
   keywords: siteConfig.keywords,
   authors: [
     {
-      name: 'Aditya Domle',
-      url: 'https://imaditya.vercel.app',
+      name: 'Donnell Naidoo',
+      url: 'https://donnellnaidoo.vercel.app',
     },
   ],
-  creator: 'Aditya Domle',
+  creator: 'Donnell Naidoo',
   openGraph: {
     type: 'website',
     locale: 'en_US',
@@ -46,7 +46,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: siteConfig.name,
     description: siteConfig.description,
-    creator: '@env_aditya',
+    creator: '@DonnellNaidoo',
   },
   icons: {
     icon: '/favicon.ico',

@@ -2,19 +2,14 @@ import { TimelineViewerData } from '@/types/TimelineViewer.types';
 
 export const experiences: TimelineViewerData[] = [
   {
-    title: 'Open Source Developer · Hacktoberfest',
-    date: 'Oct. 2025 - Present',
-    description: `Currently contributing as an Open Source Developer at Hacktoberfest, working on various web development projects and collaborating with the global developer community.`,
+    title: 'Full Stack Software Developer · TechXplo (Freelance)',
+    date: 'Present',
+    description: `Design and implement responsive user interfaces and scalable backend services for internal systems and client solutions. Build and integrate RESTful APIs, databases, and authentication systems. Develop dashboards and data visualizations for real-time operational insights. Use Jira and Confluence for agile project management and documentation.`,
     latest: true,
   },
   {
-    title: 'Trainee · Sheriyans Coding School',
-    date: 'May 2025 - Oct. 2025',
-    description: `Trainee at Sheriyans Coding School, learned full-stack technologies and DevOps practices. Participated in hackathons and collaborated on projects with the developer community.`,
-  },
-  {
-    title: 'Project Admin · GSSoC25 (GirlScript Summer of Code)',
-    date: 'Aug. 2025 - Sept. 2025',
-    description: `As a Project Admin, I reviewed code, merged pull requests, and communicated with developers, ensuring smooth project workflow and collaboration during GSSoC25.`,
+    title: 'Software Development Tutor · University of Johannesburg',
+    date: '2025 - Present',
+    description: `Mentored 100+ first- and second-year software development students through programming and software engineering coursework. Translated complex technical concepts into practical explanations tailored to diverse learning styles. Facilitated collaborative problem-solving sessions that improved student confidence and technical competency.`,
   },
 ];

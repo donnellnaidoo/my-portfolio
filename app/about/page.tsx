@@ -9,16 +9,30 @@ const AboutMePage = () => {
   return (
     <>
       <PageHeader>
-        <PageHeaderHeading>About Aditya</PageHeaderHeading>
+        <PageHeaderHeading>About Donnell</PageHeaderHeading>
         <PageHeaderHeading className="mt-2 text-muted-foreground">
-          More than just a title—let’s dive deeper!
+          Early-career developer, lifelong learner, and tech educator.
         </PageHeaderHeading>
         <PageHeaderDescription>
-          I am a passionate Software Engineer with a knack for building
-          full-stack web applications using modern technologies like Next.js and
-          Tailwind CSS. My journey in tech began with a curiosity for solving
-          real-world problems through innovative solutions, which evolved into a
-          love for crafting user-centric digital experiences.
+          I am an early-career software developer and AI practitioner with a
+          Cum-Laude diploma in Business Information Technology from the
+          University of Johannesburg. My passion lies in building full-stack
+          applications, AI-powered solutions, and data-driven tools that solve
+          real problems for communities and organizations.
+        </PageHeaderDescription>
+
+        <PageHeaderDescription>
+          I have experience designing responsive user interfaces, scalable
+          backends, RESTful APIs, and database systems. I also mentor university
+          students in software development, helping them navigate programming
+          and software engineering with clarity and confidence.
+        </PageHeaderDescription>
+
+        <PageHeaderDescription>
+          I thrive at the intersection of technology and impact — whether I am
+          building an AI-powered civic transparency platform, an insurance
+          coverage assistant, or a crime detection system, I focus on creating
+          solutions that are practical, responsible, and human-centered.
         </PageHeaderDescription>
 
         <PageHeaderDescription>
