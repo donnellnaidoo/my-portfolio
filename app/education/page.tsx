@@ -16,16 +16,18 @@ const EducationPage = () => {
           I learned a lot, but the real learning happens in the code editor!
         </PageHeaderHeading>
         <PageHeaderDescription>
-          Education has always been the cornerstone of my journey into the tech
-          world. Pursuing a Bachelor's in Computer Application (BCA) at GH Raisoni
-          College of Engineering and Management, Nagpur, has provided me a
-          strong foundation in computer science and software development.
+          Education has been the foundation of my journey into the tech world.
+          Graduating Cum-Laude with a Diploma in Business Information Technology
+          from the University of Johannesburg gave me a strong foundation in
+          software development, information systems, and business analysis.
         </PageHeaderDescription>
 
         <PageHeaderDescription>
-          My academic journey has been complemented by hands-on projects and
-          coursework, enabling me to build practical skills and a deep
-          understanding of modern technological solutions.
+          I am now pursuing an Advanced Diploma in Business Information Technology,
+          deepening my expertise in advanced programming, database systems,
+          software engineering, and business analysis. My academic journey is
+          complemented by hands-on projects and AI-focused work that bridges
+          theory with real-world impact.
         </PageHeaderDescription>
       </PageHeader>
 
